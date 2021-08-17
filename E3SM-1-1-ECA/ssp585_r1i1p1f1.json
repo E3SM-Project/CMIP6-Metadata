@@ -70,7 +70,7 @@
 
 "history": "Output from 20191108.BDRD_CNPECACNT_SSP585.ne30_oECv3.cori-knl and 20200326.BDRD_CNPECACNT_SSP585.ne30_oECv3.cori-knl", 
 
-"comment": "Year 2077 uses a non-BFB re-run. The compiler change induced climate change should be statistically indistinguishable.",
+"comment": "Year 2076 atmopheric model data use a non-BFB re-run. The compiler change induced climate change should be statistically indistinguishable.",
 
 "references": "Burrows S.M., M.E. Maltrud, X. Yang, Q. Zhu, N. Jeffery, X. Shi, and D.M. Ricciuto, et al. 2020. 'The DOE E3SM coupled model v1 .1 biogeochemistry configuration: overview and evaluation of coupled carbon - climate experiments.' Journal of Advances in Modeling Earth Systems.https://doi.org/10.1029/2019MS001766; http://e3sm.org",
 
