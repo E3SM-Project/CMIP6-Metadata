@@ -1,17 +1,17 @@
 {
   "#note_source_type": "explanation of what source_type is goes here",
 
-  "source_type": "AGCM AER",
+  "source_type": "AOGCM AER",
 
   "#note_experiment_id": "CMIP6 valid experiment_ids are found in CMIP6_CV.json",
 
-  "experiment_id": "amip-piForcing",
+  "experiment_id": "hist-GHG",
 
-  "activity_id": "CFMIP",
+  "activity_id": "DAMIP",
 
   "sub_experiment_id": "none",
 
-  "realization_index": "3",
+  "realization_index": "1",
 
   "initialization_index": "1",
 
@@ -23,21 +23,21 @@
 
   "run_variant": "",
 
-  "parent_experiment_id": "no parent",
+  "parent_experiment_id": "piControl",
 
-  "parent_activity_id": "no parent",
+  "parent_activity_id": "CMIP",
 
-  "parent_source_id": "",
+  "parent_source_id": "E3SM-1-0",
 
-  "parent_variant_label": "",
+  "parent_variant_label": "r1i1p1f1",
 
-  "parent_time_units": " ",
+  "parent_time_units": "days since 0001-01-01",
 
   "branch_method": "standard",
 
   "branch_time_in_child": 0.0,
 
-  "branch_time_in_parent": 0.0,
+  "branch_time_in_parent": 73000.0,
 
   "#note_institution_id": "institution_id must be registered at https://github.com/WCRP-CMIP/CMIP6_CVs/issues/new ",
 
@@ -67,11 +67,11 @@
 
   "data contact": "E3SM-DATA-SUPPORT@LLNL.GOV",
 
-  "history": "",
+  "history": "output from 20190404.DECKv1b_H3_hist-GHG.ne30_oEC.edison",
 
   "comment": "",
 
-  "references": "Golaz, J.-C., P. M. Caldwell, L. P. Van Roekel and co-authors, 2019: The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution. JAMES, doi: 10.1029/2018MS001603; http://e3sm.org'",
+  "references": "Zheng, X., Li, Q., Zhou, T., Tang, Q., Van Roekel, L. P., and Golaz, J.-C.: Description of historical and future projection simulations by the global coupled E3SMv1.0 model as used in CMIP6, Geosci. Model Dev., https://doi.org/10.5194/gmd-2021-312, 2021; Golaz, J.-C., P. M. Caldwell, L. P. Van Roekel and co-authors, 2019: The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution. JAMES, doi: 10.1029/2018MS001603; http://e3sm.org'",
 
   "#note_CV": " **** The following will be obtained from the CV and do not need to be defined here",
 
