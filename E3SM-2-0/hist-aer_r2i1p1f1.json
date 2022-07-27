@@ -7,13 +7,13 @@
 
   "experiment_id": "historical",
 
-  "activity_id": "CMIP",
+  "activity_id": "DAMIP",
 
   "sub_experiment_id": "none",
 
   "realization_index": "1",
 
-  "initialization_index": "1",
+  "initialization_index": "2",
 
   "physics_index": "1",
 
@@ -39,7 +39,7 @@
 
   "#note_branch_time_in_parent":"i.e. first historical ensemble branch from 0101-01-01, gives branch time 36500 days. This value is a multiple of 365" ,
   
-  "branch_time_in_parent": 36500.0,
+  "branch_time_in_parent": 54750.0,
 
   "#note_institution_id": "institution_id must be registered at https://github.com/WCRP-CMIP/CMIP6_CVs/issues/new ",
 
@@ -69,7 +69,7 @@
 
   "#note_history": "include the original case name",
 
-  "history": "v2.LR.historical_0101",
+  "history": "v2.LR.hist-aer_0151",
 
   "comment": "",
 

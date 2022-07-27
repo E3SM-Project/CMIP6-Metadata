@@ -5,9 +5,9 @@
 
   "#note_experiment_id": "CMIP6 valid experiment_ids are found in CMIP6_CV.json",
 
-  "experiment_id": "historical",
+  "experiment_id": "hist-GHG",
 
-  "activity_id": "CMIP",
+  "activity_id": "DAMIP",
 
   "sub_experiment_id": "none",
 
@@ -69,7 +69,7 @@
 
   "#note_history": "include the original case name",
 
-  "history": "v2.LR.historical_0101",
+  "history": "v2.LR.hist-GHG_0101",
 
   "comment": "",
 

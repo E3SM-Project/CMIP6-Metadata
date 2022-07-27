@@ -7,7 +7,7 @@
 
   "experiment_id": "historical",
 
-  "activity_id": "CMIP",
+  "activity_id": "DAMIP",
 
   "sub_experiment_id": "none",
 
@@ -69,7 +69,7 @@
 
   "#note_history": "include the original case name",
 
-  "history": "v2.LR.historical_0101",
+  "history": "v2.LR.hist-aer_0101",
 
   "comment": "",
 

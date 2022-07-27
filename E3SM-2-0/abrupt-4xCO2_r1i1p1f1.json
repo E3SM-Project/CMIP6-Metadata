@@ -5,7 +5,7 @@
 
   "#note_experiment_id": "CMIP6 valid experiment_ids are found in CMIP6_CV.json",
 
-  "experiment_id": "historical",
+  "experiment_id": "abrupt-4xCO2",
 
   "activity_id": "CMIP",
 
@@ -69,7 +69,7 @@
 
   "#note_history": "include the original case name",
 
-  "history": "v2.LR.historical_0101",
+  "history": "v2.LR.abrupt-4xCO2_0101",
 
   "comment": "",
 

@@ -1,11 +1,11 @@
 {
   "#note_source_type": "explanation of what source_type is goes here",
 
-  "source_type": "AOGCM AER",
+  "source_type": "AGCM AER",
 
   "#note_experiment_id": "CMIP6 valid experiment_ids are found in CMIP6_CV.json",
 
-  "experiment_id": "historical",
+  "experiment_id": "amip",
 
   "activity_id": "CMIP",
 
@@ -23,9 +23,9 @@
 
   "run_variant": "",
 
-  "parent_experiment_id": "piControl",
+  "parent_experiment_id": "no parent",
 
-  "parent_activity_id": "CMIP",
+  "parent_activity_id": "no parent",
 
   "parent_source_id": "E3SM-2-0",
 
@@ -69,7 +69,7 @@
 
   "#note_history": "include the original case name",
 
-  "history": "v2.LR.historical_0101",
+  "history": "v2.LR.amip_0101",
 
   "comment": "",
 
