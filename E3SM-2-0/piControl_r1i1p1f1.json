@@ -23,7 +23,7 @@
 
   "run_variant": "",
 
-  "parent_experiment_id": "piControl",
+  "parent_experiment_id": "piControl-spinup",
 
   "parent_activity_id": "CMIP",
 
