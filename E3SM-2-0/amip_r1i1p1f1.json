@@ -75,9 +75,7 @@
 
   "comment": "",
 
-  "#note_references": "place holder for now, will update",
-
-  "references": "Golaz, J.-C., P. M. Caldwell, L. P. Van Roekel and co-authors, 2019: The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution. JAMES, doi: 10.1029/2018MS001603; http://e3sm.org'",
+  "references": "Golaz, J.-C., L. P. Van Roekel, X. Zheng and co-authors, 2022: The DOE E3SM Model Version 2: Overview of the physical model and initial model evaluation. JAMES, doi: 10.1029/2022MS003156; http://e3sm.org",
 
   "#note_CMIP6": " **** The following are set correctly for CMIP6 and should not normally need editing",
 
