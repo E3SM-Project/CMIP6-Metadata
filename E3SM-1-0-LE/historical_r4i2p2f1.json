@@ -11,7 +11,7 @@
 
   "sub_experiment_id": "none",
 
-  "realization_index": "1",
+  "realization_index": "4",
 
   "initialization_index": "2",
 
@@ -39,7 +39,7 @@
 
   "#note_branch_time_in_parent":"i.e. first historical ensemble branch from 0101-01-01, gives branch time 36500 days. This value is a multiple of 365" ,
 
-  "branch_time_in_parent": 36500.0,
+  "branch_time_in_parent": 56575.0,
 
   "#note_institution_id": "institution_id must be registered at https://github.com/WCRP-CMIP/CMIP6_CVs/issues/new ",
 
