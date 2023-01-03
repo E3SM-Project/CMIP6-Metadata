@@ -73,7 +73,7 @@
 
   "history": "v2.LR.hist-all-xGHG-xaer_0201",
 
-  "comment": "",
+  "comment": "E3SMv2 hist-nat simulations have been configured to include all forcings except GHG and aer. As such, they differ slightly from the DAMIP specifications by including land-use changes and stratospheric ozone. This choice was made to include all forcings in the decomposition into GHG, aer, nat. Refer to the E3SMv2 overview manuscript for details.",
 
   "references": "Golaz, J.-C., L. P. Van Roekel, X. Zheng and co-authors, 2022: The DOE E3SM Model Version 2: Overview of the physical model and initial model evaluation. JAMES, doi: 10.1029/2022MS003156; http://e3sm.org",
 
@@ -99,7 +99,5 @@
 
   "output_path_template": "<mip_era><activity_id><institution_id><source_id><experiment_id><_member_id><table><variable_id><grid_label><version>",
 
-  "output_file_template": "<variable_id><table><source_id><experiment_id><_member_id><grid_label>",
-
-  "version": "v20221217"
+  "output_file_template": "<variable_id><table><source_id><experiment_id><_member_id><grid_label>"
 }
