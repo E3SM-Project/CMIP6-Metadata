@@ -1,5 +1,5 @@
 {
-  "_control_vocabulary_file": "CMIP6_CV.json",
+  "_controlled_vocabulary_file": "CMIP6_CV.json",
 
   "_AXIS_ENTRY_FILE": "CMIP6_coordinate.json",
 
