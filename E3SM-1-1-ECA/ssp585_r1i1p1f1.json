@@ -84,7 +84,7 @@
 
 "#note_CMIP6": " **** The following are set correctly for CMIP6 and should not normally need editing",
 
-"_control_vocabulary_file": "CMIP6_CV.json",
+"_controlled_vocabulary_file": "CMIP6_CV.json",
 
 "_AXIS_ENTRY_FILE": "CMIP6_coordinate.json",
 
