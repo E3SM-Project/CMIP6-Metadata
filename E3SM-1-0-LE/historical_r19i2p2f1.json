@@ -37,7 +37,7 @@
 
   "branch_time_in_child": 0.0,
 
-  "#note_branch_time_in_parent":"i.e. first historical ensemble branch from 0101-01-01, gives branch time 36500 days. This value is a multiple of 365" ,
+  "#note_branch_time_in_parent": "i.e. first historical ensemble branch from 0101-01-01, gives branch time 36500 days. This value is a multiple of 365",
 
   "branch_time_in_parent": 158775.0,
 
@@ -75,7 +75,7 @@
 
   "comment": "",
 
-  "references": "Stevenson, S., Huang, X., Zhao, Y., Di Lorenzo, E., Newman, M., van Roekel, L., Xu, T. and Capotondi, A., 2023",
+  "references": "Stevenson, S., Huang, X., Zhao, Y., Di Lorenzo, E., Newman, M., van Roekel, L., Xu, T., & Capotondi, A. 2023: Ensemble Spread Behavior in Coupled Climate Models: Insights from the Energy Exascale Earth System Model version 1, JAMES",
 
   "#note_CMIP6": " **** The following are set correctly for CMIP6 and should not normally need editing",
 
