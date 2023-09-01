@@ -11,11 +11,11 @@
 
   "sub_experiment_id": "none",
 
-  "realization_index": "1",
+  "realization_index": "17",
 
-  "initialization_index": "2",
+  "initialization_index": "1",
 
-  "physics_index": "2",
+  "physics_index": "1",
 
   "forcing_index": "1",
 
@@ -27,7 +27,7 @@
 
   "parent_activity_id": "CMIP",
 
-  "parent_source_id": "E3SM-1-0",
+  "parent_source_id": "E3SM-2-0",
 
   "parent_variant_label": "r1i1p1f1",
 
@@ -37,17 +37,17 @@
 
   "branch_time_in_child": 0.0,
 
-  "#note_branch_time_in_parent": "i.e. first historical ensemble branch from 0011-01-01, gives branch time 3650 days. This value is a multiple of 365",
-
-  "branch_time_in_parent": 3650.0,
+  "#note_branch_time_in_parent":"i.e. first historical ensemble branch from 0101-01-01, gives branch time 36500 days. This value is a multiple of 365" ,
+  
+  "branch_time_in_parent": 87600.0,
 
   "#note_institution_id": "institution_id must be registered at https://github.com/WCRP-CMIP/CMIP6_CVs/issues/new ",
 
-  "institution_id": "UCSB",
+  "institution_id": "E3SM-Project",
 
   "#note_source_id": "source_id (model name) must be registered at https://github.com/WCRP-CMIP/CMIP6_CVs/issues/new ",
 
-  "source_id": "E3SM-1-0",
+  "source_id": "E3SM-2-0",
 
   "calendar": "noleap",
 
@@ -63,19 +63,19 @@
 
   "#note_optional": " **** The following descriptors are optional and may be set to an empty string ",
 
-  "project PI": "Sam Stevenson (sstevenson@ucsb.edu), Emanuele Di Lorenzo (e.dilorenzo@brown.edu)",
+  "project PI": "Dave Bader (bader2@llnl.gov)",
 
-  "data contact": "Sam Stevenson (sstevenson@ucsb.edu)",
+  "data contact": "E3SM-DATA-SUPPORT@LLNL.GOV",
 
   "license": "CMIP6 model data produced by E3SM-Project is licensed under a Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/). Consult https://pcmdi.llnl.gov/CMIP6/TermsOfUse for terms of use governing CMIP6 output, including citation requirements and proper acknowledgment. Further information about this data, including some limitations, can be found via the further_info_url (recorded as a global attribute in this file) and at https://pcmdi.llnl.gov/. The data producers and data providers make no warranty, either express or implied, including, but not limited to, warranties of merchantability and fitness for a particular purpose. All liabilities arising from the supply of the information (including any liability arising in negligence) are excluded to the fullest extent permitted by law.",
 
   "#note_history": "include the original case name",
 
-  "history": "20191024.en1.LE_ens_1.ne30_oECv3_ICG.compy",
+  "history": "v2.LR.historical_0241",
 
   "comment": "",
 
-  "references": "Stevenson, S., Huang, X., Zhao, Y., Di Lorenzo, E., Newman, M., van Roekel, L., Xu, T., & Capotondi, A. 2023: Ensemble Spread Behavior in Coupled Climate Models: Insights from the Energy Exascale Earth System Model version 1, JAMES",
+  "references": "Golaz, J.-C., L. P. Van Roekel, X. Zheng and co-authors, 2022: The DOE E3SM Model Version 2: Overview of the physical model and initial model evaluation. JAMES, doi: 10.1029/2022MS003156; http://e3sm.org",
 
   "#note_CMIP6": " **** The following are set correctly for CMIP6 and should not normally need editing",
 
