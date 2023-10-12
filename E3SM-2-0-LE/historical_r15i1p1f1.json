@@ -37,8 +37,8 @@
 
   "branch_time_in_child": 0.0,
 
-  "#note_branch_time_in_parent":"i.e. first historical ensemble branch from 0101-01-01, gives branch time 36500 days. This value is a multiple of 365" ,
-  
+  "#note_branch_time_in_parent": "i.e. first historical ensemble branch from 0101-01-01, gives branch time 36500 days. This value is a multiple of 365",
+
   "branch_time_in_parent": 80300.0,
 
   "#note_institution_id": "institution_id must be registered at https://github.com/WCRP-CMIP/CMIP6_CVs/issues/new ",
@@ -75,7 +75,7 @@
 
   "comment": "",
 
-  "references": "Golaz, J.-C., L. P. Van Roekel, X. Zheng and co-authors, 2022: The DOE E3SM Model Version 2: Overview of the physical model and initial model evaluation. JAMES, doi: 10.1029/2022MS003156; http://e3sm.org",
+  "references": "Fasullo, J.T., J.-C. Golaz, J. M. Caron, N. Rosenbloom G. A. Meehl, G. Strand, S. Glanville, S. Stevenson, M. Molina, and C. A. Shields, C. Zhang, J. Benedict, T.Bartoletti, 2023, An Overview of the E3SM version 2 Large Ensemble and Comparison to other E3SM and CESM Large Ensembles, Earth Sys. Dyn., in review concurrent to data publication; Fasullo, J.T., J. M. Caron, Adam Phillips, Hui Li, Jadwiga H. Richter, Richard B. Neale, N. Rosenbloom, G. Strand, S. Glanville, Y. Li, F. Lehner, G. Meehl, J.-C. Golaz, P. Ullrich, J. Lee, Julie Arblaster, 2023, Modes of Variability in E3SM and CESM Large Ensembles, J. Cllim., in review concurrent to data publication.",
 
   "#note_CMIP6": " **** The following are set correctly for CMIP6 and should not normally need editing",
 
