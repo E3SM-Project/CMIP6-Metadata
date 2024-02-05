@@ -27,7 +27,7 @@
 
   "parent_activity_id": "CMIP",
 
-  "parent_source_id": "E3SM-2-0",
+  "parent_source_id": "E3SM-2-1",
 
   "parent_variant_label": "r1i1p1f1",
 
@@ -47,7 +47,7 @@
 
   "#note_source_id": "source_id (model name) must be registered at https://github.com/WCRP-CMIP/CMIP6_CVs/issues/new ",
 
-  "source_id": "E3SM-2-0",
+  "source_id": "E3SM-2-1",
 
   "calendar": "noleap",
 
