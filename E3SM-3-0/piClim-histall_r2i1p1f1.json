@@ -63,7 +63,7 @@
 
   "#note_optional": " **** The following descriptors are optional and may be set to an empty string ",
 
-  "project PI": "Dave Bader (bader2@llnl.gov)",
+  "project PI": "Dr. Peter Caldwell (caldwell19@llnl.gov), Dr. Dave Bader (PI until Feb 2025)",
 
   "data contact": "E3SM-DATA-SUPPORT@LLNL.GOV",
 
@@ -71,7 +71,7 @@
 
   "#note_history": "include the original case name",
 
-  "history": "v3.LR.piClim-histall_0151",
+  "history": "v3.LR.piClim-hist-xGHG-xaer_0151",
 
   "comment": "",
 
