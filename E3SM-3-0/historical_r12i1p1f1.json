@@ -1,17 +1,17 @@
 {
   "#note_source_type": "explanation of what source_type is goes here",
 
-  "source_type": "AGCM AER",
+  "source_type": "AOGCM AER",
 
   "#note_experiment_id": "CMIP6 valid experiment_ids are found in CMIP6_CV.json",
 
-  "experiment_id": "piClim-histGHG",
+  "experiment_id": "historical",
 
-  "activity_id": "RFMIP",
+  "activity_id": "CMIP",
 
   "sub_experiment_id": "none",
 
-  "realization_index": "1",
+  "realization_index": "12",
 
   "initialization_index": "1",
 
@@ -37,9 +37,9 @@
 
   "branch_time_in_child": 0.0,
 
-  "#note_branch_time_in_parent":"i.e. first historical ensemble branch from 0101-01-01, gives branch time 36500 days. This value is a multiple of 365" ,
-  
-  "branch_time_in_parent": 36500.0,
+  "#note_branch_time_in_parent": "i.e. first historical ensemble branch from 0101-01-01, gives branch time 36500 days. This value is a multiple of 365",
+
+  "branch_time_in_parent": 62050.0,
 
   "#note_institution_id": "institution_id must be registered at https://github.com/WCRP-CMIP/CMIP6_CVs/issues/new ",
 
@@ -63,7 +63,7 @@
 
   "#note_optional": " **** The following descriptors are optional and may be set to an empty string ",
 
-  "project PI": "Dave Bader (bader2@llnl.gov)",
+  "project PI": "Dr. Peter Caldwell (caldwell19@llnl.gov), Dr. Dave Bader (PI until Feb 2025)",
 
   "data contact": "E3SM-DATA-SUPPORT@LLNL.GOV",
 
@@ -71,11 +71,11 @@
 
   "#note_history": "include the original case name",
 
-  "history": "v3.LR.piClim-histaer_0101",
+  "history": "v3.LR.historical_0171",
 
   "comment": "",
 
-  "references": "Golaz, J.-C., L. P. Van Roekel, X. Zheng and co-authors, 2022: The DOE E3SM Model Version 2: Overview of the physical model and initial model evaluation. JAMES, doi: 10.1029/2022MS003156; http://e3sm.org",
+  "references": "Xie, S., Terai, C. R., Wang, H., Tang, Q., Fan, J., Burrows, S., et al. (2025). The Energy Exascale Earth System Model version 3: 1. Overview of the atmospheric component. JAMES, 17, e2025MS005120; Golaz, J.‐C., Lin, W., Zheng, X., Xie, S., Roberts, A. F., Van Roekel, L. P., et al. (2026). The energy Exascale Earth System Model version 3: 2. Overview of the coupled system. JAMES, 18, e2025MS005302; Lin, W. and co-authors, 2026: The Energy Exascale Earth System Model version 3. Part 3: Historical and Near Future Large Ensemble. JAMES, to be submitted concurrent to data publication. ",
 
   "#note_CMIP6": " **** The following are set correctly for CMIP6 and should not normally need editing",
 
